@@ -15,6 +15,7 @@ function symbExchange(line) {
     }
 }
 
+/*
 var assert = require('assert');
 
 if (!global.is_checking) {
@@ -24,3 +25,4 @@ if (!global.is_checking) {
     assert.equal(symbExchange("length"), "hengtl", "3nd example");
     console.log("Coding complete? Click 'Check' to review your tests and earn cool rewards!");
 }
+*/
